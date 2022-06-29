@@ -1,6 +1,11 @@
 # smm-go
 API Wrapper for all popular smm panels
 
+# Install
+```
+go get github.com/dropout1337/smm-go
+```
+
 # Example
 ```golang
 package main
